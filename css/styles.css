@@ -1,0 +1,19 @@
+body {
+    font-family: 'Aboreto';font-size: 14px;
+    background-color: #FEE2B3; /* For browsers that do not support gradients */
+    background-image: repeating-linear-gradient(#FEE2B3, #FFA299, #AD6989);
+    color:#562349;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #AD6989;
+    width: 10%;
+    border-width: 7px;
+}
+h1  {
+    text-shadow: 2px 2px #FFA299;
+  }
+h3  {
+    text-shadow: 2px 2px #FFA299;
+  }
